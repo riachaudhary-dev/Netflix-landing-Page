@@ -4,6 +4,9 @@ My first web development project — a Netflix-inspired landing page built using
 
 I created this project while learning web development to practise building website layouts, styling elements, and making pages responsive across different screen sizes.
 
+#Live Demo 
+[view my netflix-landing-page] - (https://riachaudhary-dev.github.io/Netflix-landing-Page/)
+
 # Features
 
 - Netflix-inspired landing page design
